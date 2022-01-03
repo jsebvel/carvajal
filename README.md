@@ -33,8 +33,11 @@ spring.jpa.hibernate.ddl-auto=update
 
 por ejemplo, para una conexión con local host quedaría algo como 
 spring.datasource.url=jdbc:postgresql://localhost:5432/carvajalTest
+
 spring.datasource.username=postgres
+
 spring.datasource.password=12345
+
 spring.jpa.hibernate.ddl-auto=update
 
 ## Ejecución
