@@ -24,8 +24,11 @@ Para una correcta ejecución del proyecto, se deben configurar las siguientes pr
 application.properties: 
 
 spring.datasource.url=jdbc:postgresql://urlBd:puertoConexionBd/nombreBD
+
 spring.datasource.username=userNameBd
+
 spring.datasource.password=passwordBD
+
 spring.jpa.hibernate.ddl-auto=update
 
 por ejemplo, para una conexión con local host quedaría algo como 
